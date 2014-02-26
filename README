@@ -1,0 +1,29 @@
+CRYPTOGRAPHY
+-------------
+This repo comprises of the crypto-primitives applied manually as well as using inbuilt functons in crypto++ library.
+
+Following are the primitives applied :
+
+    1. Breaking-Many-Time-Pad [Only Manual]
+    	- Using English Letter frequency Analysis
+    	- Using Cipher-text only attack
+
+	2. AES Encryption and Decryption
+		- Using standard Rijndael Algorithm [Manual]
+		- Using Crypto++ lib [Automatic]
+
+	3. CBC AES Encryption
+		- Using CBC-AES Algorithm [Manual]
+		- Using Crypto++ AES CBC Mode [Automatic]  
+
+	4. CTR AES Encryption
+		- Using CTR-AES Algorithm [Manual]
+		- Using Crypto++ AES CTR Mode [Automatic]
+
+	5. Hashing chunks of file during download from internet
+		- Using SHA256 Algorithm 
+
+	6. Discrete Log Modulo Prime calculator in python and C++ 
+		- Using Meet in the Middle Attack
+
+	7. RSA Factoring Challenges Solutions
