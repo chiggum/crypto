@@ -1,3 +1,7 @@
+/*
+Going to do an actual implementation of this in php
+*/
+
 #include "cryptopp/sha.h"
 #include "cryptopp/hex.h"
 #include "cryptopp/files.h"
